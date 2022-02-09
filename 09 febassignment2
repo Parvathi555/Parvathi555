@@ -1,0 +1,13 @@
+a=int(input("Enter a number"))
+if a%2==0:
+      print("Entered number is even")
+else:
+      print("Entered number is odd")
+
+
+
+Output1:Enter a number10
+        Entered number is even
+        
+Output2:Enter a number15
+        Entered number is odd
