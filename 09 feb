@@ -1,1 +1,16 @@
+a=int(input("Enter a value"))
+b=int(input("Enter b value"))
+if a>b: 
+     print("a is big")
+else:
+     print("b is big")
 
+
+
+Output1: Enter a value10
+         Enter b value20
+         b is big
+
+Output2:Enter a value30
+        Enter b value10
+        a is big
